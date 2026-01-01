@@ -45,6 +45,3 @@ python app.py --version
 | `--length` | `-l` | Password length | 16 |
 | `--version` | | Show version and exit | - |
 
-## License
-
-MIT
